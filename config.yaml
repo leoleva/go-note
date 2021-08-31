@@ -1,0 +1,9 @@
+database:
+  user: "test"
+  password: "newpassword"
+  net: "tcp"
+  host: "mysql"
+  dbname: "demoproject"
+  allow_native_passwords: true
+jwt:
+  secret_key: "UigygGiJPTuX3e1itDQhPLX5YYLMpdLqT1HUUoc9h44rSKmMB1lNBcv4dqvDkTp"
